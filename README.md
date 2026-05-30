@@ -6,7 +6,7 @@ An interactive video installation built in **Unity 6 (6000.0.27f1)** that plays 
 
 This was a **collaborative project with an animation student, created for his senior capstone**. The animator produced the looping video pieces; this repository contains the Unity application that drives the interactive playback hardware.
 
-The finished installation was **displayed in a campus art gallery**, where gallery visitors could physically interact with the work by tapping tagged objects to trigger different animations. The project went on to take **first place in the capstone competition**. 🥇
+The finished installation was **displayed in a campus art gallery**, where gallery visitors could physically interact with the work by tapping tagged objects to trigger different animations. The project went on to take **first place in the capstone competition**.
 
 ## How it works
 
